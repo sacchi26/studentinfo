@@ -1,0 +1,19 @@
+.heading h1{
+    text-align: center;
+}
+
+.form {
+    align-items: center;
+    justify-content: space-between;
+    text-align: center; 
+}
+
+.button{
+    background-color: lightblue;
+    color: black;
+}
+
+.button :hover{
+    background-color: white;
+    cursor: pointer;
+}
